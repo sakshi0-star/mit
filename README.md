@@ -30,3 +30,6 @@ project-folder/
 │
 └── README.md
 
+frontend : http://localhost:5174/
+backend :http://127.0.0.1:8000/
+
